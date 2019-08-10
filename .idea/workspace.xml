@@ -7,26 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b6f5aaa-5528-4f34-97ae-7549318b19bd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/artifacts/Javaweb_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/dataSources.local.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/dataSources/840aab9d-70bd-4864-9470-741172df2002.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/dataSources/a8188360-b662-41d7-b34f-a8589eec73fe.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/dataSources/e6e06443-7ec1-4d56-aaca-16496dffee94.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/Javaweb/Javaweb.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/Javaweb/web/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/Javaweb/web/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/ideatest1/e.fxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/ideatest1/ideatest1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/ideatest1/src/com/system/test1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/out/artifacts/Javaweb_war_exploded/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/out/artifacts/Javaweb_war_exploded/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/out/production/ideatest1/com/system/test1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ideatest/staticWeb01/staticWeb01.iml" />
+      <change beforePath="$PROJECT_DIR$/../ideatest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ideatest/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,8 +52,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../ideatest/Javaweb/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="264">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -437,12 +418,20 @@
       <option name="presentableId" value="Default" />
       <updated>1565399533086</updated>
       <workItem from="1565399534252" duration="1167000" />
-      <workItem from="1565419422843" duration="5365000" />
+      <workItem from="1565419422843" duration="5516000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1565424855929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565424855929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6532000" />
+    <option name="totallyTimeSpent" value="6683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="950" y="24" width="1016" height="990" extended-state="0" />
@@ -486,6 +475,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -592,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ideatest/Javaweb/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="264">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
